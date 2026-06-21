@@ -1,0 +1,12 @@
+**/.git
+**/.env
+**/.env.*
+**/node_modules
+client/dist
+client/.env.local
+server/.env
+**/__pycache__
+**/*.pyc
+**/.vscode
+**/.idea
+README.md
